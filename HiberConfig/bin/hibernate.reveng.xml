@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table-filter match-name="administrator" match-schema="public"></table-filter>
+	<table-filter match-name="allowance" match-schema="public"></table-filter>
+	<table-filter match-name="data_types" match-schema="public"></table-filter>
+	<table-filter match-name="developer" match-schema="public"></table-filter>
+	<table-filter match-name="insurance" match-schema="public"></table-filter>
+	<table-filter match-name="manager" match-schema="public"></table-filter>
+	<table-filter match-name="project" match-schema="public"></table-filter>
+	<table-filter match-name="project_data_view"
+		match-schema="public">
+	</table-filter>
+	<table-filter match-name="project_data_view"
+		match-schema="public">
+	</table-filter>
+	<table-filter match-name="project_members" match-schema="public"></table-filter>
+	<table-filter match-name="stocks" match-schema="public"></table-filter>
+	<table-filter match-name="utility" match-schema="public"></table-filter>
+</hibernate-reverse-engineering>
